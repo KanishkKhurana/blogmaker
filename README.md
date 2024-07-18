@@ -11,7 +11,7 @@ This is an ultra-simple self-hosted blog publishing solution.
 
 See the [posts](./posts) directory for what a post should look like. Posts must be written in [markdown](https://daringfireball.net/projects/markdown/syntax), and filenames must end in ".md". Dates must be in (yyyy/mm/dd) format. All posts must be in the posts directory.
 
-If you need a post to use MathJaX to format LaTeX equations, add the line
+If you need a post to use MathJaX to format LaTeX equations, add the line-
 
 ```
 [pandoc]: <> (--mathjax)
