@@ -1,0 +1,40 @@
+<?xml version="1.0" ?>
+<rss version="2.0">
+<channel>
+  <title>Vitalik Buterin's website</title>
+  <link>http://localhost:5500/</link>
+  <description>Vitalik Buterin's website</description>
+  <image>
+      <url>http://vitalik.ca/images/icon.png</url>
+      <title>Vitalik Buterin's website</title>
+      <link>http://localhost:5500/</link>
+  </image>
+
+<item>
+<title>my blog</title>
+<link>http://localhost:5500/./posts/2024/07/19/myblog.html</link>
+<guid>http://localhost:5500/./posts/2024/07/19/myblog.html</guid>
+<pubDate>Fri, 19 Jul 2024 00:00:00 +0000</pubDate>
+<description></description>
+</item>
+
+
+<item>
+<title>new blog</title>
+<link>http://localhost:5500/./posts/2024/07/18/newblog.html</link>
+<guid>http://localhost:5500/./posts/2024/07/18/newblog.html</guid>
+<pubDate>Thu, 18 Jul 2024 00:00:00 +0000</pubDate>
+<description></description>
+</item>
+
+
+<item>
+<title>Hello world</title>
+<link>http://localhost:5500/./posts/2020/10/24/hello.html</link>
+<guid>http://localhost:5500/./posts/2020/10/24/hello.html</guid>
+<pubDate>Sat, 24 Oct 2020 00:00:00 +0000</pubDate>
+<description></description>
+</item>
+
+</channel>
+</rss>
